@@ -1,0 +1,6 @@
+[submodule "home/submodules/submodule1"]
+	path = home/submodules/submodule1
+	url = https://github.com/Dragonashes/GitSubmoduleSubtree.git
+[submodule "home/submodules/submodule2"]
+	path = home/submodules/submodule2
+	url = https://github.com/Dragonashes/GitSubmoduleSubtree.git
