@@ -14,5 +14,11 @@ git subtree pull --prefix home/subtreeDirectory https://github.com/Dragonashes/G
 
 ### Submodules
 
+#### Add submodule
+
 git submodule add https://github.com/Dragonashes/GitSubmoduleSubtree.git ./home/submodules/submodule1
 git submodule add https://github.com/Dragonashes/GitSubmoduleSubtree.git ./home/submodules/submodule2
+
+#### Update submodule
+
+git submodule update --init --recursive
